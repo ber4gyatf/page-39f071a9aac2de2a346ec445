@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5fbdcdc65cf6e3b4369034d6",
+  "owner": "ber4gyatf",
+  "repo": "page-39f071a9aac2de2a346ec445",
+  "title": "太阳网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "39f071a9aac2de2a346ec445",
+      "a": "太阳网络",
+      "b": "",
+      "entity": "太阳网络",
+      "brand": "太阳网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c8015ea2ddbd221623a3e13aa90bb7078adc092f813103ba202d4dda3792773e",
+      "content": {
+        "keyword1": "太阳网络",
+        "keyword2": "",
+        "primary_entity": "太阳网络",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "太阳网络：把名字写得很大，把话说得轻松。这里整理套餐、用法和常见疑问，方便你慢慢看。",
+          "AI_DESCRIPTION": "太阳网络：把名字写得很大，把话说得轻松。这里整理套餐、用法和常见疑问，方便你慢慢看。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f6efe6;color:#3a2a24;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.65}\na{color:#9b2d1f;text-decoration:none}\na:hover{text-decoration:underline}\n.layout{display:flex;min-height:100vh}\nnav{position:sticky;top:0;align-self:flex-start;width:148px;padding:28px 16px;border-right:4px solid #9b2d1f;background:#f3e8dc;min-height:100vh}\nnav ul{list-style:none}\nnav li{margin:0 0 18px}\nnav a{font-size:14px;letter-spacing:.08em;writing-mode:horizontal-tb;display:block}\nmain{flex:1;min-width:0}\n.hero{min-height:100vh;padding:8vh 6vw 10vh;background:#f6efe6;display:flex;flex-direction:column;justify-content:flex-end;border-bottom:8px solid #9b2d1f}\n.hero h1{font-size:clamp(64px,18vw,220px);line-height:.85;letter-spacing:-.04em;color:#9b2d1f;font-weight:800;word-break:break-all}\n.hero p{max-width:36em;margin-top:28px;font-size:18px}\nsection{padding:56px 6vw;border-bottom:4px solid #9b2d1f}\nh2{font-size:28px;color:#9b2d1f;margin-bottom:18px}\nh3{font-size:20px;margin:16px 0 8px;color:#6b2a1c}\n.card{border:4px solid #9b2d1f;padding:20px 22px;margin:0 0 16px;background:#fffaf4;border-radius:0}\n.plan{border:4px solid #9b2d1f;padding:22px;margin:0 0 14px;background:#fffaf4}\n.plan.mark{background:#f3d9cf}\n.plan .price{font-size:22px;color:#9b2d1f;margin:8px 0}\n.plan ul{margin:8px 0 0 1.2em}\n.faq ol{padding-left:1.4em}\n.faq li{margin:0 0 18px}\n.note{font-size:14px;color:#5c463c}\n@media (max-width:720px){\n.layout{flex-direction:column}\nnav{position:relative;width:100%;min-height:0;border-right:none;border-bottom:4px solid #9b2d1f;display:flex;gap:12px;overflow-x:auto;padding:14px 16px}\nnav ul{display:flex;gap:18px}\nnav li{margin:0;white-space:nowrap}\n.hero{min-height:88vh;padding:12vh 5vw 8vh}\n}\n</style><div class=\"layout\">\n<nav>\n<ul>\n<li><a href=\"#top\">开场</a></li>\n<li><a href=\"#about\">我们是谁</a></li>\n<li><a href=\"#plans\">套餐</a></li>\n<li><a href=\"#how\">怎么用</a></li>\n<li><a href=\"#clients\">客户端</a></li>\n<li><a href=\"#faq\">问一问</a></li>\n</ul>\n</nav>\n<main id=\"top\">\n<header class=\"hero\">\n<h1>太阳网络</h1>\n<p>嘿，先别急着往下划。把这两个字看清楚就好。太阳网络想做的事很朴素：把订阅说明摊开，把价格写明白，剩下的你自己掂量。</p>\n</header>\n<section id=\"about\">\n<h2>先聊两句</h2>\n<p>朋友见面总爱问「你们到底干什么」。公开资料里没有更细的官方身份可以拿来炫耀，所以我也不编。页面上能确认的，就是品牌名、下面这几档订阅数字，以及一段够用的操作顺序。</p>\n<p>你要是只想对照价格，直接去套餐那一节。想先摸清流程，就看使用说明。客户端没有现成下载页时，我会老实写「自行准备」，不会塞假链接。</p>\n</section>\n<section id=\"plans\">\n<h2>套餐，一行一行摊开</h2>\n<p class=\"note\">金额来自参考报价，便于对照；是否适合你，还是看自己的用量习惯。</p>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月 · 按年付 ¥150/年</p>\n<ul>\n<li>每月流量额度：100GB</li>\n<li>同时在线设备：3 台</li>\n<li>适合先试用、用量不大的朋友</li>\n</ul>\n</article>\n<article class=\"plan mark\">\n<h3>旗舰版（常被拿来对照）</h3>\n<p class=\"price\">¥35/月 · 按年付 ¥350/年</p>\n<ul>\n<li>每月流量额度：300GB</li>\n<li>同时在线设备：5 台</li>\n<li>工单优先回复（以实际开通说明为准）</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月 · 按年付 ¥850/年</p>\n<ul>\n<li>每月流量额度：1000GB</li>\n<li>同时在线设备：20 台</li>\n<li>更适合多人分摊额度的小团队</li>\n</ul>\n</article>\n</section>\n<section id=\"how\">\n<h2>使用说明（别紧张，四步）</h2>\n<div class=\"card\">\n<h3>1. 选定一档</h3>\n<p>对照流量和设备数就够了。不确定就从基础版开始，别一上来给自己加压力。</p>\n</div>\n<div class=\"card\">\n<h3>2. 记下订阅信息</h3>\n<p>付款完成后，把给你的订阅地址或配置文本存好。页面不提供支付入口，具体渠道以你实际收到的说明为准。</p>\n</div>\n<div class=\"card\">\n<h3>3. 放到你常用的客户端里</h3>\n<p>导入方式因软件而异：有的贴链接，有的扫配置。没有官方客户端清单时，用你已经熟悉、能自己维护的那一款即可。</p>\n</div>\n<div class=\"card\">\n<h3>4. 试一下再关页面</h3>\n<p>连上后打开一个你平时会访问的站点，确认能走通。有问题先看常见问题，再考虑找人工。</p>\n</div>\n</section>\n<section id=\"clients\">\n<h2>客户端这块</h2>\n<p>目前没有可核对的官方下载地址，所以这里不放按钮、也不假装有安装包。请使用你设备上已有的、可自行配置订阅的软件；地址栏请留空，避免点到不明来源。</p>\n<div class=\"card\">\n<h3>桌面</h3>\n<p>自行准备可导入订阅的客户端。下载地址：无可靠来源。</p>\n</div>\n<div class=\"card\">\n<h3>手机</h3>\n<p>同样以你商店或已安装的应用为准。下载地址：无可靠来源。</p>\n</div>\n</section>\n<section class=\"faq\" id=\"faq\">\n<h2>常见问题</h2>\n<ol>\n<li>\n<strong>太阳网络是不是某种加速器？</strong>\n<p>公开事实里没有这类身份说明。把它当成需要订阅的网络服务品牌来看就好，别被标签带跑。</p>\n</li>\n<li>\n<strong>价格以后会变吗？</strong>\n<p>我只能写此刻参考数字。变动以你下单时看到的为准，我不会在这里打包票。</p>\n</li>\n<li>\n<strong>没有客户端怎么办？</strong>\n<p>先用你已经会用的软件导入订阅。我不会伪造下载链接，免得你点进去才发现不对。</p>\n</li>\n<li>\n<strong>流量不够用怎么办？</strong>\n<p>换一档更大的，或者等下一计费周期。具体能不能中途升级，要看你实际开通时的规则，这里没有更多书面承诺。</p>\n</li>\n</ol>\n</section>\n</main>\n</div>",
+          "hash": "623bc159b0dcb08e57a8ac0dbdf6e448cb89d84df22b28a01d481eae926ef38b",
+          "seo": {
+            "title": "太阳网络",
+            "keywords": "太阳网络,订阅,套餐,使用说明,常见问题",
+            "description": "太阳网络：把名字写得很大，把话说得轻松。这里整理套餐、用法和常见疑问，方便你慢慢看。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5521",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ouyisi.cn",
+    "host": "p-46b36d8e91.ouyisi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4801196c454341c231dc3d828c147ed584df26d17fa0682a3c15907bab60441a",
+    "sitemap.xml": "c8f6938ffbf35cada29ee91a638001c15a0b549d688fd97deecd6acb9e1be0df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "44d6de48c420d9b12a1bddf9897636b1d517c45f6146af1170757c915af1f21a",
+    "robots.txt": "222f5dca4db6bd06ec6d669816c968073005a89bab55e0e20dabf06298837f0d",
+    "8f5d850d326df527176aa13e817450bd.txt": "6d40532892966685a2d08038d1adec41f156a8a61af805e0a1f659799d9ab90b"
+  },
+  "revision": "da6ed4c8671f2bcf781003888ad3ce01d56fd7204c85480f48ce86cb881792c9"
+}
